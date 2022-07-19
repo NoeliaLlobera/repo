@@ -6,3 +6,6 @@ Configur el repositorio para poder usar git con: git init
 Crear archivo "readme.md" para documentar los passos a seguir  
 Añadir archivo al staging area: git add "readme.md"   
 Hacer snapshot hacía repositorio local: git commit -m "Primer commit"   
+Crear repositorio remoto en GitHub  
+Associar repositorio local al remoto    
+Subir cambios repositorio remoto con "git push" 
